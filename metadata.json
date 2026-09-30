@@ -1,0 +1,6 @@
+{
+  "name": "A Little Message For You",
+  "description": "A cute, smooth, and interactive digital message with missing words, glowing stars, and blooming flowers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
